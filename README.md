@@ -1,6 +1,6 @@
 ## Wassup guys! I'm Viet Hung. <img src="hi.gif" width="25">
 
-<img align="right" alt="GIF" src="dev.gif" width="350"/>
+<img align="right" alt="GIF" src="developer.gif" width="350"/>
 
 ## 👨🏻‍💻 About Me
 - 🔭 &nbsp; I’m currently final year student at FPT Polytechnic college :D
@@ -24,7 +24,7 @@
 
 
 
-### 🤝🏻 Connect with Me
+### 🤝🏻 Connect with me!
 
 <p>
 </a>  &nbsp; <a href="https://facebook.com/15ground" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>  
