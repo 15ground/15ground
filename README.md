@@ -17,7 +17,7 @@
 - 🔧 &nbsp; Algorithm | Git | Test
 - 🖥 &nbsp; Linux | Window
 
-![jhun1211's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhun1211)](https://github.com/jhun1211)
+[![jhun1211's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhun1211)](https://github.com/jhun1211)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhun1211&layout=compact&theme=default&exclude_repo:New-Spatial-Mapping)
