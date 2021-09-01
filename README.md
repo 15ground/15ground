@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="developer.gif" width="350"/>
 
-## 👨🏻‍💻 Somethings about myself
+## 👨🏻‍💻 About me 👨🏻‍💻 
 - 🔭 &nbsp; I’m currently final year student at FPT Polytechnic college :D
 - 🎓 &nbsp; Studying Sofware Application.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
