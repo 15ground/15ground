@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="developer.gif" width="350"/>
 
-## 👨🏻‍💻 About Me
+## 👨🏻‍💻 Somethings about myself
 - 🔭 &nbsp; I’m currently final year student at FPT Polytechnic college :D
 - 🎓 &nbsp; Studying Sofware Application.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
@@ -10,7 +10,7 @@
 - ✍️ &nbsp; Playing sports, traveling, photography, reading book... 
 
 
-### 🛠 Tech Stack
+### 🛠 Technologies Stack
 
 - 💻 &nbsp; Java | JavaScript | C++ 
 - 🛢 &nbsp; SQL Server | PostgreSQL | MongoDB
@@ -24,7 +24,7 @@
 
 
 
-### 🤝🏻 Connect with me!
+### 🤝🏻 Contact with me!
 
 <p>
 </a>  &nbsp; <a href="https://facebook.com/15ground" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>  
