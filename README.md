@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Studying Sofware Application.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 💼 &nbsp; Frontend Developer.
-- 🤩 &nbsp; Playing sports, traveling, photography, reading book... 
+- 🤩 &nbsp; Playing sports, traveling, photography, reading books... 
 
 
 ### 🛠 Technologies Stack
