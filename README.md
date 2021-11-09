@@ -2,22 +2,22 @@
 
 <img align="right" alt="GIF" src="developer.gif" width="350"/>
 
-🕴🏼 About me 🕴🏼 
-🤡 &nbsp; I’m currently final year student at FPT Polytechnic college.
-🎓 &nbsp; Studying Sofware Application.
-🤔 &nbsp; Exploring new technologies and developing software solutions.
-💼 &nbsp; Frontend Developer.
-🤩 &nbsp; Playing sports, traveling, photography, reading books... 
+## 🕴🏼 About me 🕴🏼 
+- 🤡 &nbsp; I’m currently final year student at FPT Polytechnic college :D
+- 🎓 &nbsp; Studying Sofware Application.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 💼 &nbsp; Frontend Developer.
+- 🤩 &nbsp; Playing sports, traveling, photography, reading books... 
 
 
-🛠 Technologies Stack
+### 🛠 Technologies Stack
 
-💻 &nbsp; Java | JavaScript | C++ 
-🦾 &nbsp; ReactJS | NodeJS | Spring boots
-🛢 &nbsp; SQL Server | PostgreSQL | MongoDB
-🔧 &nbsp; Algorithm | Git | Test
-🖥 &nbsp; Linux | Window
-
+- 💻 &nbsp; Java | JavaScript | C++ 
+- 🦾 &nbsp; ReactJS | NodeJS | Spring boots
+- 🛢 &nbsp; SQL Server | PostgreSQL | MongoDB
+- 🔧 &nbsp; Algorithm | Git | Test
+- 🖥 &nbsp; Linux | Window
+ 
 [![jhun1211's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhun1211)](https://github.com/jhun1211)
 
  
