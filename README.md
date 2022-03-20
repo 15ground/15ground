@@ -1,34 +1,21 @@
-## Wassup guys! I'm Viet Hung. <img src="hi.gif" width="25">
+### Wassup guys, I'm Viet Hung
+*I'm a Frontend Developer!!!*
 
-<img align="right" alt="GIF" src="developer.gif" width="350"/>
+### My technologies and tools:
+<img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_ts_icon_161281.png">
+<img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png">
+<img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png">
+<img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/17/PNG/256/ubuntu_linux_2075.png">
+<img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/2248/PNG/512/material_ui_icon_137419.png">
+<img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_postgres_icon_161286.png">
+<img align="left" width="22px" src = "https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png">
+<img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
+<img align="left" width="22px" src = "https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s640/logo%2Bgit%2Bicon.pngg">
+<img align="left" width="22px" src = "https://icon-library.com/images/nodejs-icon/nodejs-icon-28.jpg">
+<img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/3053/PNG/512/jira_cloud_macos_bigsur_icon_190051.png">
+<br/>
+[facebook]: https://fb.com/15ground
+[a]: https://fb.com/15ground
+### Contact with me: 
+[<img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/642/PNG/512/facebook_icon-icons.com_59205.png"/>][facebook]
 
-## 🕴🏼 About me 🕴🏼 
-- 🤡 &nbsp; I’m currently final year student at FPT Polytechnic college :D
-- 🎓 &nbsp; Studying Sofware Application.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 💼 &nbsp; Frontend Developer.
-- 🤩 &nbsp; Playing sports, traveling, photography, reading books... 
-
-
-### 🛠 Technologies Stack
-
-- 💻 &nbsp; Java | JavaScript | C++ 
-- 🦾 &nbsp; ReactJS | NodeJS | Spring boots
-- 🛢 &nbsp; SQL Server | PostgreSQL | MongoDB
-- 🔧 &nbsp; Algorithm | Git | Test
-- 🖥 &nbsp; Linux | Window
- 
-[![jhun1211's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhun1211)](https://github.com/jhun1211)
-
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhun1211&layout=compact&theme=default&exclude_repo:New-Spatial-Mapping)
-
-
-
-### Contact with me! 🤝🏻
-
-<p>
-</a>  &nbsp; <a href="https://facebook.com/15ground" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>  
-&nbsp; <a href="mailto:lvhungdeveloper@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a href="https://instagram.com/ground.15" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram.png"  width="50" /></a>
-</p>
