@@ -7,7 +7,6 @@
 <img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_ts_icon_161281.png">
 <img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/3388/PNG/512/nextjs_icon_212861.png">
 <img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png">
-<img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png">
 <img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/17/PNG/256/ubuntu_linux_2075.png">
 <img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/2248/PNG/512/material_ui_icon_137419.png">
 <img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_postgres_icon_161286.png">
