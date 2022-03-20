@@ -5,7 +5,7 @@
 ### My technologies and tools:
 
 <img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_ts_icon_161281.png">
-<img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_168087.png">
+<img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/3388/PNG/512/nextjs_icon_212861.png">
 <img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png">
 <img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png">
 <img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/17/PNG/256/ubuntu_linux_2075.png">
@@ -21,6 +21,6 @@
 [a]: https://fb.com/15ground
 
 ><br/>
->### Contact with me: 
+### Contact with me: 
 [<img align="left" width="22px" src = "https://cdn.icon-icons.com/icons2/642/PNG/512/facebook_icon-icons.com_59205.png"/>][facebook]
 
